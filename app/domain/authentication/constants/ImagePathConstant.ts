@@ -1,0 +1,23 @@
+export const ImagePath = {
+  onBoardingFirstImage: require('../../../../app/assets/images/01.png'),
+  onBoardingSecondImage: require('../../../../app/assets/images/02.png'),
+  onBoardingThirdImage: require('../../../../app/assets/images/03.png'),
+  signUpImage: require('../../../../app/assets/images/signUp.png'),
+  payeeLogo: require('../../../../app/assets/images/payee_logo.png'),
+  splashScreenImage: require('../../../../app/assets/images/splashSreen.png'),
+  otpScreenImage: require('../../../../app/assets/images/OtpImage.png'),
+  // modalScreenImage: require('../../../../app/assets/images/Modal.png'),
+  // modalScreenGif: require('../../../../app/assets/images/tick.gif'),
+  messageLoadingGif: require('../../../assets/images/messageLoading.gif'),
+  modalScreenGif: require('../../../assets/images/longGif.gif'),
+  background: require('../../../../app/assets/images/Background.png'),
+  lock: require('../../../assets/images/Lock.png'),
+  successIos: require('../../../assets/images/success.mp4'),
+  uploadImage: require('../../../assets/images/uploadImage.png'),
+  editPencil: require('../../../assets/images/editpencil.png'),
+  accounttype: require('../../../assets/images/accounttype.png'),
+  noRecipient: require('../../../assets/images/NoRecipient.png'),
+  noPayer: require('../../../assets/images/noPayer.png'),
+  signUpLogo: require('../../../assets/images/payee_ongreen.png'),
+  newSignUpImage : require('../../../assets/images/newsignupimage.png')
+};

@@ -1,0 +1,176 @@
+[
+    {
+        "recipient_id": "nikita",
+        "text": "The company FEIN is important since this is how you will file your taxes.Please enter it again to make sure it@s correct."
+    },
+    {
+        "recipient_id": "nikita",
+        "custom": {
+          "type": "plainButton",
+          "data": [
+            {
+              "key": "YES",
+              "value": "yes"
+            },
+            {
+              "key": "NO",
+              "value": "no"
+            }
+          ]
+        }
+    },
+    {
+        "recipient_id": "nikita",
+        "custom": {
+          "type": "actionButton",
+          "data": {
+            "title": "Please select your account type",
+            "description":
+              "Save your prefrence for specific query and move to next step.",
+            "payload": [
+              {
+                "key": "BUSINESS",
+                "value": "Business"
+              },
+              {
+                "key": "INDIVIDUAL",
+                "value": "Individual"
+              }
+            ]
+          }
+        }
+    },
+    {
+        "recipient_id": "nikita",
+        "custom": {
+          "type": "simpleInfoBox",
+          "title": "company setup",
+          "data": [
+            {
+              "title": "Help is just a tap away",
+              "description":
+                "Access live support 24/7 by tapping Help at the top of your screen."
+            },
+            {
+              "title": "Mistakes are fixable",
+              "description":
+                "If you enter something incorrectly,you can make changes by tapping the"
+            },
+            {
+              "title": "Help is just a tap away",
+              "description":
+                "Access live support 24/7 by tapping Help at the top of your screen."
+            }
+          ]
+        }
+    },
+    {
+        "recipient_id": "nikita",
+        "custom": {
+          "type": "textInfoBox",
+          "data": [
+            {
+              "title": "Help is just a tap away",
+              "description":
+                "Access live support 24/7 by tapping Help at the top of your screen."
+            },
+            {
+              "title": "Mistakes are fixable",
+              "description":
+                "If you enter something incorrectly,you can make changes by tapping the"
+            },
+            {
+              "title": "Help is just a tap away",
+              "description":
+                "Access live support 24/7 by tapping Help at the top of your screen."
+            }
+          ]
+        }
+    },
+    {
+        "recipient_id": "nikita",
+        "custom": {
+          "type": "keyValueInfoBox",
+          "title": "company setup",
+          "data": [
+            {
+              "key": "Bank name",
+              "value": "Chase"
+            },
+            {
+              "key": "Account type",
+              "value": "Checking account"
+            },
+            {
+              "key": "Routing number",
+              "value": "123455678"
+            },
+            {
+              "key": "Account number",
+              "value": "123455678"
+            }
+          ]
+        }
+    },
+    {
+        "recipient_id": "nikita",
+        "custom": {
+          "type": "accordionInfoBox",
+          "title": "company setup",
+          "data": [
+            {
+              "accordianName": "Albert Johnes",
+              "data": [
+                {
+                  "key": "Bank name",
+                  "value": "Chase"
+                },
+                {
+                  "key": "Account type",
+                  "value": "Checking account"
+                },
+                {
+                  "key": "Routing number",
+                  "value": "123455678"
+                },
+                {
+                  "key": "Account number",
+                  "value": "123455678"
+                }
+              ]
+            }
+          ]
+        }
+    },
+    {
+        "recipient_id": "nikita",
+        "custom": {
+          "type": "dropDown",
+          "title": "What type of business it is",
+          "buttonText": "Save",
+          "data": [
+            {
+              "label": "Agriculture",
+              "value": "Agriculture"
+            },
+            {
+              "label": "Construction & Engineering",
+              "value": "construction & Engineering"
+            },
+            {
+              "label": "Fanancial",
+              "value": "Financial"
+            }
+          ]
+        }
+    },
+    {
+        "recipient_id": "nikita",
+        "custom": {
+          "type": "stepsComplete",
+          "text": "Nice work, step 1 of 5 completed",
+          "totalSteps": 5,
+          "completeSteps": 2
+        }
+    }
+]

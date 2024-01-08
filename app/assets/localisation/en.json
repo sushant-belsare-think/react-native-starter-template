@@ -1,0 +1,18 @@
+{
+    "user": {
+        "device_name_glucose": "Blood Glucose",
+        "device_name_scale": "Body Scale",
+        "device_name_pressure": "Blood Pressure",
+        "device_name_therm": "Infrared Therm",
+        "device_name_oximeter": "Oximeter",
+        "Name": "Name"
+    },
+    "device": {
+        "device_name_glucose": "Blood Glucose",
+        "device_name_scale": "Body Scale",
+        "device_name_pressure": "Blood Pressure",
+        "device_name_therm": "Infrared Therm",
+        "device_name_oximeter": "Oximeter",
+        "Name": "Name"
+    }
+}

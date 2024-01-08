@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/fonts/Lato-Bold.ttf",
+      "sha1": "edf53e78fee1081bff421841c8c8fb50657f6f13"
+    },
+    {
+      "path": "app/assets/fonts/Lato-Medium.ttf",
+      "sha1": "ec2319bc4502cc6bb88df89fd1acdd727fb55ce9"
+    },
+    {
+      "path": "app/assets/fonts/Lato-Regular.ttf",
+      "sha1": "93c1fcb57f2865b411b4d4fada04eec120dc6b2c"
+    },
+    {
+      "path": "app/assets/fonts/Poppins-Medium.ttf",
+      "sha1": "01be8feaed323d19eeccf16fd79ea3b74206cfdb"
+    },
+    {
+      "path": "app/assets/fonts/Poppins-Regular.ttf",
+      "sha1": "dd48971530e3f19f7067ad80ce6c215365fe7269"
+    }
+  ]
+}
